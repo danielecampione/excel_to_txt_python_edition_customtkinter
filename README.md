@@ -1,4 +1,4 @@
-# Excel to TXT - Python Edition
+# Excel to TXT - Python Edition CustomTkinter
 
 Un'applicazione Python leggera ed efficiente progettata per convertire fogli di calcolo Excel (`.xlsx` e `.xls`) in file di testo piano (`.txt`). Questo strumento è ideale per l'esportazione di dati, la preparazione di log o la formattazione di dataset per elaborazioni successive.
 
