@@ -1,0 +1,1 @@
+pip install customtkinter tkinterdnd2 openpyxl pandas
