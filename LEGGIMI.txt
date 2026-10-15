@@ -1,1 +1,7 @@
-pip install customtkinter tkinterdnd2 openpyxl pandas
+INSTALLAZIONE
+pip install -r requirements.txt
+
+AVVIO
+python main.py
+
+Il supporto ai file .xls richiede xlrd.
